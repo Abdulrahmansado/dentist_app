@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723676242414",
+    "project_id": "dentist-directory-f02a2",
+    "storage_bucket": "dentist-directory-f02a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723676242414:android:6d02a639b3fe9ae8de2eff",
+        "android_client_info": {
+          "package_name": "com.sado.dentist.dentist_directory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723676242414-hhu7e677pdcjv9uahoufjf7ckcrtegfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sado.dentist.dentist_directory",
+            "certificate_hash": "b87f28bc4a91dddcf1cb75f98233a85b3ab27858"
+          }
+        },
+        {
+          "client_id": "723676242414-e6cr4a7d5j0am8m9jccl6haudv6bik30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJ7-LF7BfJIJ7p8hXjPi2IBf2usWAdQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723676242414-e6cr4a7d5j0am8m9jccl6haudv6bik30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

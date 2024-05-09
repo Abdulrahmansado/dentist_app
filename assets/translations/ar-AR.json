@@ -1,0 +1,16 @@
+{
+  "general": {
+    "homepage_text": "دليل طبيب الأسنان"
+  },
+  "login": {
+    "login_text": "تسجيل الدخول"
+  },
+  "patient_page": {
+    "first_name": "الاسم",
+    "last_name": "الكنية",
+    "phone_number": "رقم الهاتف",
+    "page_number": "رقم الصفحة",
+    "form_title": "إضافة مريض",
+    "require_field_validate_msg": "حقل إجباري"
+  }
+}

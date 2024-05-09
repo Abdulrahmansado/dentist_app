@@ -1,0 +1,30 @@
+{
+  "general": {
+    "homepage_text": "سجل المرضى",
+    "save": "حفظ",
+    "update": "تعديل",
+    "delete": "حذف",
+    "ok": "نعم",
+    "cancel": "إلغاء",
+    "back": "رجوع",
+    "sign_out": "تسجيل خروج",
+    "patients_list": "قائمة المرضى",
+    "search": "بحث"
+  },
+  "login": {
+    "login_text": "تسجيل الدخول"
+  },
+  "patient_page": {
+    "first_name": "الاسم",
+    "last_name": "الكنية",
+    "date_of_birth": "تاريخ الميلاد",
+    "phone_number": "رقم الهاتف",
+    "page_number": "رقم الصفحة",
+    "form_title": "إضافة مريض",
+    "require_field_validate_msg": "حقل إجباري",
+    "delete_patient_dialog_title": "حذف مريض",
+    "delete_patient_msg": "هل تريد حقاً حذف هذا السطر؟",
+    "add_patient": "إضافة مريض",
+    "update_patient": "تعديل مريض"
+  }
+}
